@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PADAlarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchButton">Search</string>
+    <string name="dungeons">Dungeons</string>
+    <string name="noDungeons">No more dungeons for today :(</string>
+    <string-array name="groupID">
+        <item>Group A</item>
+        <item>Group B</item>
+        <item>Group C</item>
+        <item>Group D</item>
+        <item>Group E</item>
+    </string-array>
+</resources>
